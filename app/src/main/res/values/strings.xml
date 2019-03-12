@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="title_activity_receiver">ReceiverActivity</string>
+</resources>
